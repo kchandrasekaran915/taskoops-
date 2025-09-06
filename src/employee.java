@@ -26,6 +26,9 @@ class Employee extends Person {
         Employee emp2 = new Employee("Kavya", 25, 102, 65000);
         emp2.display();
     }
+
+
+
 }
 
 
